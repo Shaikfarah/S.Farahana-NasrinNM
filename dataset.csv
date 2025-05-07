@@ -1,0 +1,7 @@
+age,gender,blood_pressure,cholesterol,fever,cough,disease
+25,1,130,180,1,1,Flu
+60,0,145,210,0,0,Hypertension
+34,1,120,190,1,0,Flu
+50,0,150,230,0,1,Pneumonia
+45,1,140,200,0,0,Diabetes
+70,0,160,240,1,1,Pneumonia
